@@ -1,12 +1,6 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
-
-TITULO DO PROJETO: OrdernadorDatas
-OBJETIVO DO PROJETO: Ordenar datas
-AUTORES: Marcos Thomaz
+TITULO DO PROJETO: OrdernadorDatas<br>
+OBJETIVO DO PROJETO: Ordenar datas<br>
+AUTORES: Marcos Thomaz<br><br>
 
 Exercicio 5: 
 A principal desvantagem do Counting em relação ao Radix, 
